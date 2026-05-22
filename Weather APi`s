@@ -1,0 +1,23 @@
+### Weather API`s
+
+| API | Description | Auth | HTTPS | CORS |
+| :--- | :--- | :--- | :--- | :--- |
+| [7Timer!](http://www.7timer.info/doc.php) | Weather forecast and weather charts | No | No | Unknown |
+| [Ambee](https://www.getambee.com/api-documentation) | Real-time weather data | `apiKey` | Yes | Unknown |
+| [Angelfire](https://www.angelfire.com/ny5/weatherapi/) | Aviation weather data | No | Yes | Unknown |
+| [Buoyweather](https://www.buoyweather.com/) | Marine weather forecasts for coastal and offshore locations | `apiKey` | Yes | Unknown |
+| [ClimaCell](https://www.tomorrow.io/weather-api/) | High-resolution real-time and forecast weather data | `apiKey` | Yes | Unknown |
+| [Meteorologisk Institutt](https://api.met.no/) | Weather and climate data from the Norwegian Meteorological Institute | No | Yes | Unknown |
+| [National Weather Service](https://www.weather.gov/documentation/services-web-api) | Weather forecasts, alerts, and observations for the US | No | Yes | Unknown |
+| [Oikolab](https://oikolab.com) | Weather research data and analytics | `apiKey` | Yes | Unknown |
+| [OpenWeatherMap](https://openweathermap.org/api) | Current weather, forecasts, and historical data | `apiKey` | Yes | Unknown |
+| [RainViewer](https://www.rainviewer.com/api.html) | Weather radar tiles and satellite imagery | No | Yes | Unknown |
+| [Storm Glass](https://stormglass.io/) | Global marine weather forecasts | `apiKey` | Yes | Unknown |
+| [Visual Crossing](https://www.visualcrossing.com/weather-api) | Global historical and forecast weather data | `apiKey` | Yes | Unknown |
+| [WeatherAPI](https://www.weatherapi.com/) | Real-time, forecast, and historical weather data | `apiKey` | Yes | Unknown |
+| [Weatherbit](https://www.weatherbit.io/api) | High-performance weather forecast and historical data | `apiKey` | Yes | Unknown |
+| [Weatherstack](https://weatherstack.com/) | Real-time, historical, and forecast weather data | `apiKey` | Yes | Unknown |
+| [Windy](https://api.windy.com/) | Weather forecast map and radar tiles | `apiKey` | Yes | Unknown |
+| [XWeather](https://www.xweather.com/) | Advanced weather data and mapping for applications | `apiKey` | Yes | Unknown |
+
+**[⬆ Back to Index](#index)**
